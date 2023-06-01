@@ -59,6 +59,9 @@ import com.example.bloodbank_20bci0035.ui.theme.BloodBank_20BCI0035Theme
 
 
 //This text was added through github
+
+//This is added through android studion and commit
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
